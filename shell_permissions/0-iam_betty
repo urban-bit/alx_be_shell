@@ -1,2 +1,2 @@
  0-iam_betty
-Usage Run the script to switch to the user betty
+su betty
