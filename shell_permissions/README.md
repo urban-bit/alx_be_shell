@@ -8,3 +8,9 @@ This script prints the effective username of the current user.
 
 ## 4-empty
 This script creates an empty file named `hello`.
+`5-execute`
+
+This script adds execute permission to the owner of the file `hello` located in the working directory.
+
+- Usage: `./5-execute`
+- Requirements: Must be run from the directory containing `hello`.
